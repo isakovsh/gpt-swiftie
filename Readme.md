@@ -1,5 +1,6 @@
 # 🎤 GPT-Swiftie: Train a Mini-GPT on Taylor Swift Lyrics
-!(https://github.com/isakovsh/gpt-swiftie/blob/master/images/image.png) 
+!![SwiftGPT Banner](https://github.com/isakovsh/gpt-swiftie/blob/master/images/image.png) 
+
 **GPT-Swiftie** is a lightweight GPT-style language model trained on Taylor Swift lyrics. Built from scratch using PyTorch, this project is great for learning how transformers work under the hood — from embeddings to multi-head self-attention to autoregressive text generation.
 
 > 🔥 Followed by [nanoGPT](https://github.com/karpathy/nanoGPT) — minimal, educational, and Swiftie-themed.
